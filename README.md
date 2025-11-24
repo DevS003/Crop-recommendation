@@ -38,6 +38,8 @@ The system considers factors such as soil nutrients (N, P, K), temperature, humi
    ```
    python app.py
    ```
+   <img width="1920" height="957" alt="ads output" src="https://github.com/user-attachments/assets/f7827287-38aa-434f-8f55-5168dcd0e3bc" />
+
 
 ## Usage
 - Input data should be in CSV format with columns for soil parameters, climate, and location.
